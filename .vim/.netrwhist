@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/f74086218/test_code_file'
+let g:netrw_dirhist_5='/home/f74086218/os_2022_hw3-gift-1215_temp'
+let g:netrw_dirhist_4='/home/f74086218/os_2022_hw3-gift-1215/include'
+let g:netrw_dirhist_3='/home/f74086218/os_2022_hw3-gift-1215/test'
+let g:netrw_dirhist_2='/home/f74086218/os_2022_hw2-gift-1215'
+let g:netrw_dirhist_1='/tmp'
